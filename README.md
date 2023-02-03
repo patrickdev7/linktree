@@ -6,7 +6,7 @@
     <img src="./src/images/pc.jpg" alt="pc">
 </div>
 
-````
+```
     PC
 ```
 
@@ -16,7 +16,7 @@
     <img src="./src/images/tablet.jpg" alt="tablet">
 </div>
 
-````
+```
     TABLET
 ```
 
