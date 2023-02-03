@@ -1,6 +1,8 @@
 ## LinkTree
 
-<hr/>
+<div align="center">
+    Access <a href="https://63dc70ce04bcbf7b3241205d--magical-gecko-61265b.netlify.app/" target="_blank" rel="noreferrer">Deploy</a>
+</div>
 
 <div align="center">
     <img src="./src/images/pc.jpg" alt="pc">
@@ -47,5 +49,4 @@ Alter error with deploy in netlify
 
 ## Starting Dev Environment
 
-1. Run `npm install` or `yarn install`.<br />
-2. # Run `yarn start`.<br />
+Run `npm install` or `yarn install`.<br />
